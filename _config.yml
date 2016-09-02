@@ -6,9 +6,9 @@ color:
   saturation: 0.6245248466730118
   rhythmicContrast: 0.04618313070386648
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: Testbas
