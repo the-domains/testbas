@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Testbas]]></title>
+        <description><![CDATA[Testbas]]></description>
+        <link>https://thegrid.ai/testbas/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 30 Aug 2016 17:06:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testbas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bass]]></title>
+            <description><![CDATA[<article><h1>Bass</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd4180ac-6757-41db-8527-84c64d7def73.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testbas/bass/index.html</link>
+            <guid isPermaLink="false">5bceda06-a104-4258-9cd8-8a67d78d3e9a</guid>
+            <pubDate>Tue, 30 Aug 2016 17:06:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
